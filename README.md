@@ -3,7 +3,7 @@ studying at ubi, portugal
 
 
 ## socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin?style=for-the-badge&logoColor=white)](https://linkedin.com/in/leonardo-mendes-santos-108945235) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/leonardo-mendes-santos-108945235) 
 
 ## languages
 ![OCaml](https://img.shields.io/badge/-OCaml-black?logo=ocaml&style=for-the-badge)
