@@ -2,12 +2,12 @@
 studying at ubi, portugal
 
 ```
-let github = [ "!"; "profile"; "GitHub"; "my"; "to"; "Welcome" ]
+let github = [ "Welcome"; "to"; "my"; "GitHub"; "profile"; "!" ]
 
 let () =
   List.fold_left
     (fun acc a ->
-      match a with "!" | "Welcome" -> a ^ acc | _ -> " " ^ a ^ acc)
+      match a with "!" | "Welcome" -> acc ^ a | _ -> " " ^ acc ^ a)
     "" github
   |> print_endline
 ```
