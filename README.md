@@ -23,9 +23,9 @@ let working_on = ("zaml", "A type inferred, statically-typed functional programm
 
 ---
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=zazedd&show_icons=true&hide_border=true&theme=dark&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=zazedd&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=zazedd&layout=compact&theme=dark&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=html,lua,css,tex&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=zazedd&layout=compact&theme=dark&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=html,lua,css,tex&bg_color=00000000&card_width=300" />
 </a>
 
