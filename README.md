@@ -18,7 +18,7 @@ let interests = [|
   "Cybersecurity";
 |]
 
-let working_on = ("zaml", "A type inferred, statically-typed functional programming language inspired by OCaml")
+let working_on = ("zaml", "A type-inferred, statically typed functional programming language inspired by OCaml and Lambda calculus.")
 ```
 
 ---
