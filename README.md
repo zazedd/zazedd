@@ -1,5 +1,5 @@
 
-studying at ubi, portugal
+studying at ubi, portugal  
 
 ```ocaml
 let lst = [ "Welcome"; "to"; "my"; "GitHub"; "profile"; "!" ]
@@ -20,6 +20,8 @@ let interests = [|
 
 let working_on = ("zaml", "A type-inferred, statically typed functional programming language inspired by OCaml and Lambda calculus.")
 ```
+
+also check out my [website](https://zazed.xyz)
 
 ---
 <a href="https://github.com/anuraghazra/convoychat">
