@@ -1,5 +1,5 @@
 
-studying at ubi, portugal  
+studying at fcup, portugal  
 
 ```ocaml
 let lst = [ "Welcome"; "to"; "my"; "GitHub"; "profile"; "!" ]
@@ -18,15 +18,15 @@ let interests = [|
   "Cybersecurity";
 |]
 
-let working_on = ("zaml", "A type-inferred, statically typed functional programming language inspired by OCaml and Lambda calculus.")
+let working_at = ("tarides", "creating an OCurrent pipeline for radiocarbon dating")
 ```
 
 also check out my [website](https://zazed.xyz)
 
 ---
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api?username=zazedd&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&card_width=400" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=zazedd&layout=compact&theme=dark&include_all_commits=true&hide_border=true&count_private=true&langs_count=6&hide=html,css,tex&bg_color=00000000&card_width=300&exclude_repo=solar-system,money" />
 </a>
