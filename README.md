@@ -18,10 +18,10 @@ let interests = [|
   "Cybersecurity";
 |]
 
-let working_at = ("tarides", "creating an OCurrent pipeline for radiocarbon dating")
+let working_at = ("ahrefs", "improving internal tools")
 ```
 
-also check out my [website](https://zazed.xyz)
+also check out my [website](https://leoms.dev)
 
 ---
 <a>
